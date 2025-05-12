@@ -29,7 +29,3 @@
 - Kotlin, MVI, Compose
 <br/><br/>
 
-## Archivement
-
-- 0.0.2 출시(2024-12 1.0.0 공식 출시 예정)
-<br/><br/>
